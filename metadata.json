@@ -1,0 +1,7 @@
+{
+  "name": "LensMaster AI",
+  "description": "Transform budget smartphone photos into professional DSLR-quality masterpieces using Gemini AI. Enhance depth of field, dynamic range, and color science with a single click.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
